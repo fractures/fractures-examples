@@ -1,0 +1,16 @@
+:root {
+	--basefont: 40px;
+	--box-1: 20px;
+}
+
+body {
+	color: midnightblue;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu",
+		"Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.my-container {
+	margin: 0 auto;
+	max-width: 100%;
+	width: 960px;
+}
