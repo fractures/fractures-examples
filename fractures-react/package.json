@@ -1,12 +1,12 @@
 {
-	"name": "fractures-react-cra",
+	"name": "fractures-react",
 	"version": "0.0.1",
 	"private": true,
 	"dependencies": {
-		"fractures": "^1.1.0",
-		"react": "^16.2.0",
-		"react-dom": "^16.2.0",
-		"react-scripts": "1.0.17"
+		"fractures": "^1.3.0",
+		"react": "^16.4.0",
+		"react-dom": "^16.4.0",
+		"react-scripts": "1.1.4"
 	},
 	"scripts": {
 		"start": "react-scripts start",
