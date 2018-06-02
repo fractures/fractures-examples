@@ -4,10 +4,10 @@ How to use [fractures](https://github.com/fractures/fractures) with your app. Re
 
 ## Examples
 
-    - [fractures-react](./fractures-react)
+- [fractures-react](./fractures-react)
 
 ## Soon
 
-    - [fractures-next](./fractures-next)
-    - [fractures-ui-next](./fractures-ui-next)
-    - [fractures-ui-react](./fractures-ui-react)
+- [fractures-next](./fractures-next)
+- [fractures-ui-next](./fractures-ui-next)
+- [fractures-ui-react](./fractures-ui-react)
