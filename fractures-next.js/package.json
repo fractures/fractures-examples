@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@zeit/next-css": "0.2.1-canary.2",
-    "next": "^6.1.2",
+    "next": "^9.3.2",
     "react": "^16.5.0",
     "react-dom": "^16.5.0"
   }
